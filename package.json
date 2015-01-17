@@ -21,7 +21,7 @@
       "orm"
     ],
     "dependencies": {
-        "waterline": "^0.10.8",
+        "waterline": "^0.10.16",
         "waterline-fixtures": "^0.2.x"
     },
     "devDependencies": {
